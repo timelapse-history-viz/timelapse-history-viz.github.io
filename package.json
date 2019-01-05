@@ -23,6 +23,7 @@
     "@angular/router": "^6.1.0",
     "@types/googlemaps": "^3.30.16",
     "core-js": "^2.5.4",
+    "express": "^4.16.4",
     "ng5-slider": "^1.1.11",
     "rxjs": "~6.2.0",
     "zone.js": "~0.8.26"
