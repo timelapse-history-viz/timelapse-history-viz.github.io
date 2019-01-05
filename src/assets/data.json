@@ -1,0 +1,44 @@
+[
+    {
+        "timestamp": "2018",
+        "title": "Mughals",
+        "description": "They gave us butter chicken",
+        "area": [
+            {"lat": 30.172042, "lng": 77.087905},
+            {"lat": 28.099443, "lng": 76.121546},
+            {"lat": 28.021884, "lng": 78.493517}
+        ]
+    },
+    {
+        "timestamp": "2017",
+        "title": "Mughals",
+        "description": "They gave us butter chicken",
+        "area": [
+            {"lat": 30.172042, "lng": 77.087905},
+            {"lat": 28.099443, "lng": 76.121546},
+            {"lat": 28.021884, "lng": 78.493517}
+        ]
+    },
+    {
+        "timestamp": "2017",
+        "title": "Rajputs",
+        "description": "You must visit Udaipur for the amazing forts",
+        "area": [
+            {"lat": 28.615064, "lng": 73.163905},
+            {"lat": 24.994357, "lng": 70.763147},
+            {"lat": 23.511948, "lng": 73.574372},
+            {"lat": 27.477411, "lng": 77.088403}
+        ]
+    },
+    {
+        "timestamp": "2016",
+        "title": "Rajputs",
+        "description": "You must visit Udaipur for the amazing forts",
+        "area": [
+            {"lat": 28.615064, "lng": 73.163905},
+            {"lat": 24.994357, "lng": 70.763147},
+            {"lat": 23.511948, "lng": 73.574372},
+            {"lat": 27.477411, "lng": 77.088403}
+        ]
+    }
+]
